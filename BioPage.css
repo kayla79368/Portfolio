@@ -1,0 +1,61 @@
+/*This code is all for the top of
+every page*/
+.Title{
+  background-color: #30D2FF;
+  float: center;
+}
+.btns{
+  background-color: #18697F;
+}
+.Home{
+  background-color: #18697F;
+
+}
+.btns button {
+  width: 18%;
+  background-color: #2fbabc;
+  border: 2px solid purple;
+  padding: 10px 24px; /* Some padding */
+  color: white;
+  cursor: pointer;
+  float: center;
+}
+/*From here on is the home page*/
+.Home{
+  background-color: #18697F;
+}
+.MAS{
+  background-color: #0C3540;
+}
+/*From here on is the photography page*/
+
+/*From here on is the CS page*/
+.intro{
+  background-color: #249EBF;
+}
+.Scratch{
+  background-color: #0C3540;
+}
+.AppInventor{
+  background-color: #30D2FF;
+}
+
+/*From here on is the IED page*/
+
+/*From here on is the About page*/
+.Start{
+  background-color: #18697F;
+}
+.Inspiration{
+  background-color: #249EBF;
+}
+.Music{
+  background-color: #0C3540;
+}
+
+/*Hex Colors:
+#30D2FF This is the buttons
+#249EBF
+#18697F
+#0C3540
+#2BBDE5 This is the top*/
