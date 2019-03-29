@@ -28,10 +28,15 @@ every page*/
   background-color: #0C3540;
 }
 /*From here on is the photography page*/
-
+.photo{
+  background-color: #18697F;
+}
+.Nature{
+  background-color: #0C3540;
+}
 /*From here on is the CS page*/
 .intro{
-  background-color: #249EBF;
+  background-color: #18697F;
 }
 .Scratch{
   background-color: #0C3540;
@@ -39,9 +44,16 @@ every page*/
 .AppInventor{
   background-color: #30D2FF;
 }
-
+.Python{
+  background-color: #18697F;
+}
+.HTML{
+  background-color: #30D2FF;
+}
 /*From here on is the IED page*/
-
+.IEDI{
+  background-color: #18697F;
+}
 /*From here on is the About page*/
 .Start{
   background-color: #18697F;
